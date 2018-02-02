@@ -1,1 +1,1 @@
-sdasdasfd
+This is a test of Atom git push GUI.
